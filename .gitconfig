@@ -1,0 +1,8 @@
+[user]
+	name = Won Jong-Dae
+	email = gx53q11@naver.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
